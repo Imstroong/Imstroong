@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Imstroong
+- 👀 I’m a data analyst with knowledge of SQL,R,Power BI, Tableau 
+- 🌱 I’m currently learning Data science using python
